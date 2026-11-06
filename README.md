@@ -1,2 +1,2 @@
-# RUDC
-RUDC: Radar-only Unguided Depth Completion
+# RUDC: Radar-only Unguided Depth Completion
+
